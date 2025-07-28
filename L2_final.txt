@@ -1,0 +1,6 @@
+Set 0:
+  Line 0: Valid=1, Tag=0x1bf46, Time=4, Data=63339fc9
+  Line 1: Valid=1, Tag=0x1bee, Time=3, Data=0d322f1f
+Set 1:
+  Line 0: Valid=0, Tag=-
+  Line 1: Valid=0, Tag=-
